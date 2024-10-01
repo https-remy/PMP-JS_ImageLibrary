@@ -1,6 +1,6 @@
 # Infinite Scroll Image Loader
 
-A web application that implements **infinite scrolling** to load images from an API as the user scrolls down the page. Built using **HTML**, **CSS**, and **JavaScript**. The project practices using the `IntersectionObserver` for triggering new data loads based on scroll position.
+A web application that implements **infinite scrolling** to load images from an API as the user scrolls down the page. Built using **HTML**, **CSS**, and **JavaScript**. The project practices using the `IntersectionObserver` for triggering new data loads based on scroll position. You can see it [here](https://remyshift.github.io/PMP-JS_ImagesLibrary/).
 
 ## Table of Contents
 
